@@ -17,7 +17,7 @@ class Pasajero(Persona):
             print("Error: el origen y el destino no pueden ser iguales.")
             return None
 
-        viaje = Viaje(origen, destino)
+        viaje = Viaje(origen, destino) = ("Plaza de Armas","Universidad")
 
         return viaje
 

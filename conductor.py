@@ -1,5 +1,5 @@
 from persona import Persona
-
+from viaje import Viaje
 
 class Conductor(Persona):
 
